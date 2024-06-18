@@ -1,2 +1,2 @@
 # ejemplo.py
-lo que quiera
+trabajo python
